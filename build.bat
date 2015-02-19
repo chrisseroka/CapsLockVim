@@ -1,0 +1,1 @@
+.\tools\ahk2exe /in .\src\CapsLockWin.ahk /out .\CapsLockWin.exe
