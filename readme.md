@@ -5,22 +5,28 @@ It's a simple script to emulate arrow keys using CapsLock. Navigation is done li
 Usage
 ==========================
 Navigation:
+```
     CapsLock + j: Down arrow
     CapsLock + k: Up arrow
     CapsLock + h: Left arrow
     CapsLock + l: Right arrow
+```
 
 Text selection:
+```
     CapsLock + Left Alt + j:  same as Shift + Down arrow
     CapsLock + Left Alt + k:  same as Shift + Up arrow
     CapsLock + Left Alt + h:  same as Shift + Left arrow   
     CapsLock + Left Alt + l:  same as Shift + Right arrow
+```
 
 Build
 ==========================
 You can use the script by loading it in your AutoHotkey installation or by running the script copmiled to standalone .exe.
 To compile, sipmly run:
+```
     build.bat
+```
 
 FAQ
 ==========================
